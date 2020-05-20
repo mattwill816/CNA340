@@ -15,7 +15,16 @@ Once installed you can run the program and copy and paste the code.
 **4.12 LAB: Smallest number**
 Copy code below and enter it into Pycharm
 ```
-4.12 LAB: Smallest number code goes here
+if __name__ == '__main__':
+    num1 = int(input())
+    num2 = int(input())
+    num3 = int(input())
+    largest = num1
+    if num2 < largest:
+        largest = num2
+    if num3 < largest:
+        largest = num3
+print(largest)
 
 ```
 **Input**
@@ -26,7 +35,7 @@ Copy code below and enter it into Pycharm
 ```
 **Output**
 ```
-ENTER OUTPUT HERE
+3
 
 ```
 
