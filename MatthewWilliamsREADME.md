@@ -1,33 +1,34 @@
-# Project Title
+# 4.12 LAB: Smallest number
 
-One Paragraph of project description goes here
+Write a program whose inputs are three integers, and whose output is the smallest of the three values. Ex: If the input is: 7, 15, 3 and the output is: 3
 
 ## Getting Started
-
-These instructions will [do something] on your local machine for [development/experimentation/demo]
+These instructions will install Pycharm on your local machine.
 
 ### Prerequisites
-
-[Project] requires [software and version] to run, with [additional packages, libaries, or mods]. The commands below will [upgrade OS and install the prerequisites, or do something else]
-
-```
-sudo apt update
-sudo apt upgrade
-sudo apt install package1 package2
-```
+Python requires Pycharm to run, with no additional requirements.
+[Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows) 
 
 ## Running
-Once installed you can run the program with the following command
+Once installed you can run the program and copy and paste the code. 
+
+**4.12 LAB: Smallest number**
+Copy code below and enter it into Pycharm
+```
+4.12 LAB: Smallest number code goes here
 
 ```
-python demo.py
+**Input**
+```
+7
+15
+3
+```
+**Output**
+```
+ENTER OUTPUT HERE
+
 ```
 
-Add any additional ways to run the program below
-
-```
-python demo.py test.txt
-```
 
 ## Thanks
-Provide thank yous and attributions here. If someone helped you, you looked at another repository, or another article, provide it here.
